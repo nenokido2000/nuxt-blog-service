@@ -41,10 +41,6 @@ module.exports = {
     '@/plugins/element-ui'
   ],
 
-  env: {
-    FIREBASE_URL: process.env.FIREBASE_URL
-  },
-
   /*
   ** Nuxt.js modules
   */
